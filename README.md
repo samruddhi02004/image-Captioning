@@ -2,10 +2,6 @@
 
 PyTorch image captioning project that uses a pretrained ResNet-152 encoder and an LSTM decoder to generate natural-language captions for images.
 
-Repository: https://github.com/samruddhi02004/image-Captioning.git
-
-![Model architecture](image_captioning/png/model.png)
-
 ## Overview
 
 This project follows a standard encoder-decoder pipeline:
